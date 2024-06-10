@@ -1,0 +1,6 @@
+electrode
+breathers
+ventilate
+press
+defibrillator
+cover
